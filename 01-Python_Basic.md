@@ -22,6 +22,8 @@
   - [VSCODE - flake8 설치(PEP8 검사)](https://blog.naver.com/dsz08082/222281152333)
 - 뒷부분은 공부해야할 것이 좀 있다.
 - 길다.
+- 해당 강의는 아래 링크의 수업이 출처인 듯 하다.
+  - https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC
 
 
 ## 기억하면 좋을 것
