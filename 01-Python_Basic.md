@@ -304,3 +304,19 @@ def kwargs_test_2(one, two=3, * args, **kwargs):
 
 kwargs_test_2(one=10, first=3, second=4, third=5)
 ```
+
+### string slice
+```python
+test_list = [0, 1, 2, 3, 4, 5]
+
+print(test_list[1::2])    # [1, 3, 5]
+print(test_list[1:2])     # [1]
+
+
+for data in test_list[::2]:
+  print(data)
+
+# 0
+# 2
+# 4
+```
