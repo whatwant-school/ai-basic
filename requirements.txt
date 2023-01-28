@@ -1,0 +1,8 @@
+beautifulsoup4==4.11.1
+bs4==0.0.1
+flake8==6.0.0
+lxml==4.9.2
+mccabe==0.7.0
+pycodestyle==2.10.0
+pyflakes==3.0.1
+soupsieve==2.3.2.post1

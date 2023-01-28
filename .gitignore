@@ -1,3 +1,5 @@
 *.pdf
 *.mkv
 *.png
+__pycache__/
+.venv/
