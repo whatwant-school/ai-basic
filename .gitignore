@@ -3,3 +3,4 @@
 *.png
 __pycache__/
 .venv/
+AI-python-connect/

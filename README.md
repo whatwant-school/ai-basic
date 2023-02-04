@@ -11,3 +11,5 @@
 
 - [0주차 - 라이브 코칭 오리엔테이션](00-OT.md)
 - [1주차 - 파이썬 기초](01-Python_Basic.md)
+- [2주차 - 파이썬 다지기](02-Python_Advanced.md)
+- [3주차 - 기초 수학 첫걸음](03-Math_Basic.md)
