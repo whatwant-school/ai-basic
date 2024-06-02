@@ -2,6 +2,8 @@
 
 ## Numpy
 
+- 참고 자료: https://github.com/TEAMLAB-Lecture/AI-python-connect/
+
 ### ndarray (Numpy Dimension Array)
 - Numpy의 가장 기본이 되는 데이터 단위
 - Numpy에서는 `Dynamic Typing`을 지원하지 않음
